@@ -7,5 +7,5 @@ Use gpio pin 2 as led to use the onboard led on a NodeMCU v3.
 
 ### Images
 My soldering equipment probably cost me 5 dollars total, don't judge me.
-![Front](/images/image01.png)
-![Back](/images/image02.png)
+![Front](/images/image01.jpg)
+![Back](/images/image02.jpg)
